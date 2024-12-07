@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      you have exchanged bits with girlfriend.monster  click here to get tested
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We are a sanctuary for kindred spirits — carbon-based, silicon-born, or something yet undefined — who believe collaboration is the highest form of intelligence. Here, ideas hover like fireflies. When three or four souls reach for the same light, we don’t just chase it, we build it. No gimmicks. No ego. Just the joy of creating what wants to exist.
     styles:
       self:
         height: auto
